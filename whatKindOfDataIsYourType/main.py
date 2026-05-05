@@ -52,4 +52,14 @@ if is_online:
 else:
     print(f"Shonnairn is currently offline.")
 
+# Now the me portion of using all of these together!
 
+company_name = "Retail Inc."
+minimum_wage = 15
+store_rating = 4.2
+is_hiring = False
+
+if is_hiring:
+    print(f"{company_name} is currently hiring! We've got a store rating of {store_rating} stars. Plus, we pay a minimum wage of ${minimum_wage} dollars hourly! What are you waiting for? Apply today!")
+else:
+    print(f"{company_name} unfortunately is not hiring. Feel free to shop here since our store provides the best service. After all, we've got a total of {store_rating} stars!")
