@@ -7,5 +7,5 @@ width = float(input("What is the width of the stove?: "))
 
 area = length * width
 
-# FYI to get the root number use Num lk + alt + key in 0178
+# FYI to get the root number use Num-lk + alt + key in 0178
 print(f"The area of the stove will be: {area}cm²")
