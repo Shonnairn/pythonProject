@@ -1,3 +1,6 @@
+import math
+
+x = 8.2
 
 friends = 0
 
@@ -59,3 +62,20 @@ result = max(x, y, z)
 result = min(x, y, z)
 
 print(result)
+
+# So Python actually does use the import like JS too!
+
+print(math.pi)
+# This will print the pi value. Not all of it just enough of it lol
+
+print(math.e)
+# It also even includes the scientific constant e!
+
+result = math.sqrt(x)
+# This function of course does the square root of a number.
+
+result = math.ceil(x)
+# Cieling function is actually rounding up a number
+
+result = math.floor(x)
+# Floor function is rounding down a number
