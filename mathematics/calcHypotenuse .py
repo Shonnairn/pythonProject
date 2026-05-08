@@ -1,4 +1,6 @@
 import math
 
 a = float(input("Enter side a: "))
-c = float(input("Enter side c: "))
+b = float(input("Enter side b: "))
+
+c = math.sqrt(pow(a, 2) + pow(b, 2))
