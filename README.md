@@ -15,3 +15,5 @@ Sadly, was too tired and had to show up to work eariler so didnt get to code at 
 5/11/2026 - Day 8
 
 So the pass function. That's a new function that helps run code for the if statement. Meaning to test if the tree even works in the first place without having to type in code.
+
+Decided to clean up this mess of filing.
