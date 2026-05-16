@@ -2,6 +2,13 @@
 # Print or assign one of two values based on a condition
 # X if condition else Y
 
+
+# From better understanding the ascept is in the fact using if and else.
+# Were using <, >, and =, for numbers
+# Or matching written strings. referring to the admin accees
+# Sounds simple enough
+
+
 num = 5
 print ("Positive" if num > 0 else "Negative")
 
